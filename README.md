@@ -9,6 +9,6 @@ I'm a AI Engineer based in India, and I spend most of my time getting LLMs to ac
 - Pinecone, FAISS, OpenSearch
 - AWS Bedrock, Lambda, Docker, CI/CD, Git
 
-At the end of the day, I just want the retrieval to be accurate, the responses to be trustworthy, and the token bill to not give anyone a heart attack.
+At the end of the day, I just want the retrieval to be accurate, the responses to be trustworthy, and the solutions to be efficient and scalable. I'm always looking to collaborate and push the boundaries of what's possible with AI.
 
 Find me here: [LinkedIn](https://www.linkedin.com/in/sakthigrish04/) · [Portfolio](https://sakthib-codes.github.io/)
