@@ -1,6 +1,6 @@
 ### Hey, I'm Sakthigrish 👋
 
-I'm a Generative AI Engineer based in Chennai, India, and I spend most of my time getting LLMs to actually behave well in real applications. Think RAG pipelines, agentic workflows, and everything in between: chunking data properly, tuning retrieval, and making conversations feel less robotic.
+I'm a AI Engineer based in India, and I spend most of my time getting LLMs to actually behave well in real applications. Think RAG pipelines, agentic workflows, and everything in between: chunking data properly, tuning retrieval, and making conversations feel less robotic.
 
 **Tools and stuff I use:**
 - LLMs, RAG, Prompt Engineering, Hybrid Search (Semantic + BM25), Re-ranking, Agentic Workflows
