@@ -1,11 +1,16 @@
 ### Hi there!
 
-I'm [Sakthi](https://sakthib-codes.github.io/), a Generative AI Engineer.
+I'm [Sakthigrish](https://sakthib-codes.github.io/), a Generative AI Engineer based in Chennai, India.
 
-I've spent the last ~2.5 years building with RAG pipelines, LLMs, and semantic search — working on systems that make retrieval and reasoning actually useful in production, not just in a notebook.
+I build LLM-powered applications, RAG pipelines, and agentic workflows — covering everything from data ingestion and embeddings to retrieval tuning and conversational AI.
 
-I'm interested in how AI assistants are designed and used in practice — you can see a bit of that thinking in [Wave](https://sakthib-codes.github.io/), an AI assistant I built for my portfolio.
+**What I work with:**
+- LLMs, RAG, Prompt Engineering, Hybrid Search (Semantic + BM25), Re-ranking, Agentic Workflows
+- LangChain, LlamaIndex, Hugging Face, SentenceTransformers, OpenAI API, Claude (Anthropic)
+- Python, SQL, REST APIs
+- Pinecone, FAISS, OpenSearch
+- AWS Bedrock, Lambda, Docker, CI/CD, Git
 
-Outside of that, I like exploring new tools and ideas in the LLM space and turning them into things people can actually try.
+I care about making retrieval and reasoning actually work in production — with an eye on response quality, cost, and trustworthiness.
 
 Let's connect — [LinkedIn](https://www.linkedin.com/in/sakthigrish04/) · [Portfolio](https://sakthib-codes.github.io/)
